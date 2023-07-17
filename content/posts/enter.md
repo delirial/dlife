@@ -1,7 +1,7 @@
 ---
 title: "Enter"
 date: 2023-07-15T21:50:59+02:00
-draft: true
+draft: false
 ---
 # Intro
 This document will be my first post. I was searching a lot, what could be the best way to learn, remember and improve my thoughts about information technologies and others wonders of my interests. 
