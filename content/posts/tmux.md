@@ -1,6 +1,8 @@
 ---
 title: "Tmux"
 date: 2023-07-17T23:54:37+02:00
+description: 'As soon as Winston had dealt with each of the messages, he clipped his speakwritten corrections to the appropriate copy of the Times and pushed them into the pneumatic tube. '
+image: images/cctv.jpeg
 draft: true
 ---
 The terminal multiplexer that allow to use multiple windows, panes and commands in terminal,providing a lightweigth enviroment to develop, read or modify code and configuration files.
