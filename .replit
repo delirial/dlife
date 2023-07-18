@@ -1,0 +1,8 @@
+run = "hugo && miniserve public --index index.html"
+entrypoint = "content/posts/"
+
+[nix]
+channel = "stable-22_11"
+
+[deployment]
+run = ["sh", "-c", "hugo"]
