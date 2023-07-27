@@ -1,7 +1,7 @@
 ---
 title: "Ornaments"
 date: 2023-07-15T21:50:59+02:00
-description: 'As soon as Winston had dealt with each of the messages, he clipped his speakwritten corrections to the appropriate copy of the Times and pushed them into the pneumatic tube. '
+description: 'Gardens,code, analogies and wonders. Write is a discover and i want to explore.'
 image: images/cctv.jpeg
 draft: false
 ---
