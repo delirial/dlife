@@ -1,8 +1,5 @@
-baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'digital life'
-[author]
-name = 'onielsen'
+title = 'dlife'
 # config.toml
 [params]
   google_analytics_id = ""
@@ -10,34 +7,30 @@ name = 'onielsen'
   showAuthorOnHomepage = true
   showAuthorOnPosts = false
   showIntroContentOnHomepage = true
-  showPostsOnHomepage = true
+  showPostsOnHomepage = false
   usePaginationOnHomepage = false
   limitPostsOnHomepage = 3 # only used if usePaginationOnHomepage is false
   sortPostsByDateOldestFirst = false
   addDot = true
   addFrame = true
   highlightColor = '#f5e960'
-  baseColor = "#f2f5ff"
+  baseColor = "#1e1e1e"
   baseOffsetColor = "#eaeaea"
-  headingColor = "#1c1b1d"
-  textColor = "#4e5157"
+  headingColor = "#e0e3e6"
+  textColor = "#e0e3e6"
   dotColor = "#55d6c2"
   enableGoogleFonts = true 
   googleFontsUrl = "https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap"
   fontFamilyHeading = "Poppins"
   fontFamilyParagraph = "Helvetica"
   fontFamilyMonospace = "monospace"
+  
 [menu]
   [[menu.main]]
     name = "blog"
     identifier = "blog"
     weight = 2
     url = "/posts/"
-  [[menu.main]]
-    name = "why"
-    identifier = "about"
-    weight = 3
-    url = "/about/"
 [module]
 [[module.imports]] 
   path = "github.com/hugo-mods/icons"
